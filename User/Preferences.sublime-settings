@@ -1,12 +1,7 @@
 {
 	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Bright.tmTheme",
-	"font_size": 11,
-	"ignored_packages":
+	"file_exclude_patterns":
 	[
-		"Vintage"
-	],
-	"theme": "Adaptive.sublime-theme",
-	"file_exclude_patterns":[
 		"*.pyc",
 		"*.pyo",
 		"*.exe",
@@ -28,11 +23,18 @@
 		"*.db",
 		"*.sublime-workspace"
 	],
-	"folder_exclude_patterns": [
-		".svn", 
+	"folder_exclude_patterns":
+	[
+		".svn",
 		".git",
-		".hg", 
-		"CVS", 
+		".hg",
+		"CVS",
 		"__pycache__"
-	]
+	],
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Adaptive.sublime-theme"
 }

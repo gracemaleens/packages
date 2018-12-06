@@ -5,7 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"AutoFileName",
 		"BracketHighlighter",
+		"Color Highlighter",
 		"ColorPicker",
 		"ConvertToUTF8",
 		"FileDiffs",
