@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"FileDiffs",
+		"GBK Support",
+		"Git Commit Message Syntax",
+		"GitGutter",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"Theme - SoDaReloaded",
+		"Tomorrow Color Schemes"
+	]
+}
